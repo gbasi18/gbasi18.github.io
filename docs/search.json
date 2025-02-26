@@ -18,14 +18,49 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Write a brief introduction about yourself."
+    "text": "I’m a Statistics MSc student at ETH Zurich with a passion for applying advanced statistical methods and machine learning to solve real-world problems, particularly in climate science and healthcare."
   },
   {
-    "objectID": "about.html#who-i-am",
-    "href": "about.html#who-i-am",
+    "objectID": "about.html#hello-im-gianfranco-basile",
+    "href": "about.html#hello-im-gianfranco-basile",
     "title": "About Me",
     "section": "",
-    "text": "Write a brief introduction about yourself."
+    "text": "I’m a Statistics MSc student at ETH Zurich with a passion for applying advanced statistical methods and machine learning to solve real-world problems, particularly in climate science and healthcare."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on the intersection of machine learning and climate science. Currently, I’m working as a Visiting Graduate Researcher at IBM Research’s AI for Climate Impact Lab, where I contribute to advanced climate modeling research using artificial intelligence.\nPreviously, I developed a machine learning framework for climate downscaling at ETH Zurich, integrating generative models to produce high-resolution forecasts from global climate models. My work on Corrective Diffusion Models improved MSE by 15% over existing methods.\nI’m also interested in:\n\nDeep learning applications in healthcare\nConcept Bottleneck Models for Continual Learning\nHigh-dimensional statistics and computer vision\nStatistical modeling for environmental data"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nMSc in Statistics (2023 - Present)\nETH Zurich, Switzerland\nFocus: Deep Learning, High-Dimensional Statistics, Computer Vision, Machine Learning\nBSc in Statistics (2020 - 2023)\nUniversità degli Studi di Padova, Italy\nFocus: Statistical Modelling, Multivariate Statistics, Time Series"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nAs a Data Scientist at the Center of Dental Medicine Zurich, I deployed large language models to classify medical publications based on their adherence to good clinical practices and designed experiments to assist doctors in publication processes.\nMy research experience spans multiple projects:\n\nDevelopment of machine learning frameworks for climate downscaling\nImplementation of Concept Bottleneck Models for Continual Learning\nCreation of predictive models for crop yield estimation using drone imagery\nApplication of deep learning for heart disease prediction and pneumonia detection\nDevelopment of novel approaches for evaluating functional diagnostic tests"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming: Python, R, SQL\nML Frameworks: PyTorch, TensorFlow\nOperating Systems: Windows, Linux"
+  },
+  {
+    "objectID": "about.html#beyond-academia",
+    "href": "about.html#beyond-academia",
+    "title": "About Me",
+    "section": "Beyond Academia",
+    "text": "Beyond Academia\nWhen I’m not immersed in research and statistics, I’m passionate about environmental conservation and staying active through climbing, rowing, and CrossFit.\nFeel free to reach out if you’re interested in collaborating on research projects or just want to connect!"
   },
   {
     "objectID": "blog/posts/Bachelor_Thesis_post.html",

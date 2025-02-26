@@ -1,7 +1,64 @@
 ---
 title: "About Me"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gianfranco.basile18@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/gianfrancobasile
 ---
 
-## Who I Am
+## Hello, I'm Gianfranco Basile
 
-Write a brief introduction about yourself.
+I'm a Statistics MSc student at ETH Zurich with a passion for applying advanced statistical methods and machine learning to solve real-world problems, particularly in climate science and healthcare.
+
+## Research Interests
+
+My research focuses on the intersection of machine learning and climate science. Currently, I'm working as a Visiting Graduate Researcher at IBM Research's AI for Climate Impact Lab, where I contribute to advanced climate modeling research using artificial intelligence.
+
+Previously, I developed a machine learning framework for climate downscaling at ETH Zurich, integrating generative models to produce high-resolution forecasts from global climate models. My work on Corrective Diffusion Models improved MSE by 15% over existing methods.
+
+I'm also interested in:
+
+- Deep learning applications in healthcare
+- Concept Bottleneck Models for Continual Learning
+- High-dimensional statistics and computer vision
+- Statistical modeling for environmental data
+
+## Education
+
+- **MSc in Statistics** (2023 - Present)  
+  ETH Zurich, Switzerland  
+  Focus: Deep Learning, High-Dimensional Statistics, Computer Vision, Machine Learning
+
+- **BSc in Statistics** (2020 - 2023)  
+  Università degli Studi di Padova, Italy  
+  Focus: Statistical Modelling, Multivariate Statistics, Time Series
+
+## Professional Experience
+
+As a Data Scientist at the Center of Dental Medicine Zurich, I deployed large language models to classify medical publications based on their adherence to good clinical practices and designed experiments to assist doctors in publication processes.
+
+My research experience spans multiple projects:
+
+- Development of machine learning frameworks for climate downscaling
+- Implementation of Concept Bottleneck Models for Continual Learning
+- Creation of predictive models for crop yield estimation using drone imagery
+- Application of deep learning for heart disease prediction and pneumonia detection
+- Development of novel approaches for evaluating functional diagnostic tests
+
+## Technical Skills
+
+- **Programming:** Python, R, SQL
+- **ML Frameworks:** PyTorch, TensorFlow
+- **Operating Systems:** Windows, Linux
+
+## Beyond Academia
+
+When I'm not immersed in research and statistics, I'm passionate about environmental conservation and staying active through climbing, rowing, and CrossFit.
+
+Feel free to reach out if you're interested in collaborating on research projects or just want to connect!
