@@ -1,0 +1,12 @@
+---
+title: "My First Blog Post"
+author: "Your Name"
+date: "2024-02-26"
+categories: [news, blogging]
+---
+
+Welcome to my first blog post!
+
+## Introduction
+
+This is where you write your blog content.

@@ -7,6 +7,13 @@
     "text": "Hello, World!\nThis is my personal website created with Quarto."
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My First Blog Post\n\n\n\n\n\n\nnews\n\n\nblogging\n\n\n\n\n\n\n\n\n\nFeb 26, 2024\n\n\nYour Name\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -19,5 +26,19 @@
     "title": "About Me",
     "section": "",
     "text": "Write a brief introduction about yourself."
+  },
+  {
+    "objectID": "blog/posts/Bachelor_Thesis_post.html",
+    "href": "blog/posts/Bachelor_Thesis_post.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "Welcome to my first blog post!"
+  },
+  {
+    "objectID": "blog/posts/Bachelor_Thesis_post.html#introduction",
+    "href": "blog/posts/Bachelor_Thesis_post.html#introduction",
+    "title": "My First Blog Post",
+    "section": "Introduction",
+    "text": "Introduction\nThis is where you write your blog content."
   }
 ]
